@@ -1,9 +1,11 @@
-# Ciphense
+# Ciphense Problem Statement
 
-#pre requisite library
-#Beautiful Soup
-#googlesearch
+# pre requisite library
+Beautiful Soup
+googlesearch
 
-#Installing
+# Installing
+
+for google search
 
 pip install google
